@@ -1,10 +1,10 @@
 # Tongren Xiao
-I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current research focuses on three areas: time series forecasting, world models, and Schubert calculus.
+I am an undergraduate student at the School of Mathematics, Sun Yat-sen University, advised by Associate Professor Yirong Huang, Associate Professor Yujun Lian, and Professor Changzheng Li. My current work focuses on reliable language agents, structured decision support, world models, financial AI, and time-series forecasting, alongside Schubert calculus.
 
 I am particularly interested in the following questions:
 
 - How to design simple yet effective forecasting models in data‑scarce financial environments (such as the SRM model we recently completed);
-- How to build probabilistic world models for financial markets—we are trying to introduce world models into finance, but due to severe partial observability and non‑stationarity in financial systems, the results are not yet satisfactory and we are still exploring;
+- How to build world models for financial markets—we are trying to introduce world models into finance, but due to severe partial observability and non-stationarity in financial systems, the results are not yet satisfactory and we are still exploring;
 - How to develop agent systems that are robust, explainable, and trustworthy, and that provide structured and auditable support for financial decision‑making—my advisors and I are very interested in this direction, but progress has been limited so far.
 
 Ultimately, these directions converge on the same core question: how to obtain good forecasts, and how to make good decisions based on those forecasts.
@@ -13,10 +13,11 @@ In addition, I maintain an interest in algebraic geometry, particularly Schubert
 
 **Research interests**
 
-- Time-series and volatility forecasting in data‑scarce settings
-- Probabilistic world models for financial time series
-- Reliable agents and structured decision support
-- Schubert calculus and its potential applications in machine learning
+- Reliable language agents
+- Structured decision support
+- World models
+- Financial AI
+- Time-series forecasting
 
 Selected research
 ------
@@ -41,7 +42,7 @@ This project studies a post-processing layer for volatility forecasts, with the 
 
 [View slides](/files/reports/talks/Conservative_Residual_Overlay_Slides.pdf)
 
-#### Probabilistic world model for volatility
+#### World model for volatility
 
 This is a very rough model and is still being improved.
 
